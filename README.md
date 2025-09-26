@@ -67,9 +67,13 @@ while True:
 
 ```
 ## OUTPUT
-### client:
-![alt text](image.png)
-### server:
-![alt text](image-1.png)
+## Server
+<img width="916" height="259" alt="Screenshot 2025-09-23 084755" src="https://github.com/user-attachments/assets/feda5607-d3b6-4c83-8e89-6bc450fa4858" />
+
+
+## Client
+<img width="925" height="266" alt="Screenshot 2025-09-23 084917" src="https://github.com/user-attachments/assets/a3aedd9d-0509-4e07-a5d2-2be18e98ced2" />
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
